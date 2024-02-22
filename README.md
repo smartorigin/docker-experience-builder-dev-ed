@@ -23,7 +23,7 @@ Esri instructions for installing are [here](https://developers.arcgis.com/experi
 * Clone this repository:
 
 ```bash
-git clone git@github.com:manastamirflorinda/docker-experience-builder-dev-ed.git
+git clone git@github.com:smartorigin/docker-experience-builder-dev-ed.git
 ```
 
 ### Download and unzip the Experience Builder sources
