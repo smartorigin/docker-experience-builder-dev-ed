@@ -1,0 +1,6 @@
+# Files to ignore, to keep the context size from running away on us.
+
+.git
+.gitignore
+README.md
+
